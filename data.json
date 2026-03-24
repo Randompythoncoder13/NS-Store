@@ -1,0 +1,183 @@
+{
+    "Obsidian Arsenal": {
+        "Naval": [],
+        "Land": [
+            {
+                "Name": "TV-2 MBT",
+                "Cost and Build Time": {
+                    "Cost": "$14,000,000",
+                    "Build Time": "15 Months"
+                },
+                "Vehicle Specs": {
+                    "Weight": "65 Tons",
+                    "Speed": "70 kph",
+                    "Range": "500 km",
+                    "Crew": "3",
+                    "Passengers": "0"
+                },
+                "Weapons": [
+                    "130mm Gun",
+                    ".50 Cal RWS",
+                    "7.62mm Coaxial Chain Gun"
+                ],
+                "Systems": [
+                    "Explosive Reactive Armor",
+                    "CLOAK",
+                    "Soft-Kill/Hard-Kill APS",
+                    "Hyperspectral Sensor Suite",
+                    "Hybrid Engine"
+                ]
+            },
+            {
+                "Name": "TV-3E Apex",
+                "Cost and Build Time": {
+                    "Cost": "$15,000,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "57 Tons",
+                    "Speed": "80 kph",
+                    "Range": "700 km",
+                    "Crew": "2",
+                    "Passengers": "0"
+                },
+                "Weapons": [
+                    "130mm Gun",
+                    ".50 Cal RWS",
+                    "7.62mm Coaxial Chain Gun"
+                ],
+                "Systems": [
+                    "Explosive Reactive Armor",
+                    "CLOAK",
+                    "DERT",
+                    "PROTECT",
+                    "Soft-Kill/Hard-Kill APS",
+                    "Hyperspectral Sensor Suite",
+                    "Hybrid Engine",
+                    "Fully Unmanned Turret"
+                ]
+            }
+        ],
+        "Air": []
+    },
+    "MUAC": {
+        "Naval": [
+            {
+                "Name": "Hornet Class Destroyer",
+                "Cost and Build Time": {
+                    "Cost": "$2,000,000,000",
+                    "Build Time": "3 Years"
+                },
+                "Vessel Specs": {
+                    "Displacement": "13,500 Tons",
+                    "Speed": "85 kph",
+                    "Range": "8,000 km",
+                    "Crew Size": "350"
+                },
+                "Aircraft Carried": [
+                    "6 Helicopters"
+                ],
+                "Weapons": [
+                    "2x 130mm Guns",
+                    "50x Hypersonic Capable VLS",
+                    "2 SeaRAM",
+                    "8 Torpedo Tubes"
+                ],
+                "Systems": [
+                    "EW Suite"
+                ]
+            },
+            {
+                "Name": "Noah Class Cruiser",
+                "Cost and Build Time": {
+                    "Cost": "$1,750,000,000",
+                    "Build Time": "2.5 Years"
+                },
+                "Vessel Specs": {
+                    "Displacement": "10,000 Tons",
+                    "Speed": "75 kph",
+                    "Range": "9,000 km",
+                    "Crew Size": "300"
+                },
+                "Aircraft Carried": [
+                    "4 Helicopters"
+                ],
+                "Weapons": [
+                    "120x VLS",
+                    "2x 130mm Guns",
+                    "4x CIWS",
+                    "4x Torpedo Tubes"
+                ],
+                "Systems": [
+                    "EW Suite",
+                    "C&C Space"
+                ]
+            }
+        ],
+        "Land": [],
+        "Air": [
+            {
+                "Name": "TH-M1 Condor Gunship",
+                "Cost and Build Time": {
+                    "Cost": "$62,500,000",
+                    "Build Time": "1 Year"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "14,300 kg",
+                    "Max Weight": "39,000 kg",
+                    "Length": "68 M",
+                    "Wingspan/Blade span": "62 Meters",
+                    "Airframe": "High-Wing, T-Tail",
+                    "Internal fuel capacity": "8,400 kg"
+                },
+                "Performance": {
+                    "Max Speed": "1,130 kph",
+                    "Cruise Speed": "980 kph",
+                    "Combat Radius": "750 km",
+                    "Ferry Range": "4,100 km",
+                    "Altitude Ceiling": "13,700 km"
+                },
+                "Weapons": [
+                    "2x Internal Bays",
+                    "4x Optional External Hardpoints",
+                    "1x Forward Mounted 25mm Rotary Cannon"
+                ],
+                "Systems": [
+                    "360 Sensor Coverage",
+                    "CLOAK",
+                    "AI Flight Management and Auto Targeting"
+                ]
+            }
+        ]
+    },
+    "General Ordnance": {
+        "Naval": [],
+        "Land": [
+            {
+                "Name": "FV-9 Spectre IFV",
+                "Cost and Build Time": {
+                    "Cost": "$11,200,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "38 Ton",
+                    "Speed": "80 KPH",
+                    "Range": "750 km",
+                    "Crew": "2",
+                    "Passengers": "9"
+                },
+                "Weapons": [
+                    "1x 40mm Autocannon",
+                    ".50 Cal RWS",
+                    "Dual ATGM Launcher"
+                ],
+                "Systems": [
+                    "Hard-Kill/Soft-Kill APS",
+                    "360 Sensor Coverage + Augmented Reality View",
+                    "Hybrid Engine"
+                ]
+            }
+        ],
+        "Air": []
+    }
+}
