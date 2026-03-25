@@ -10,7 +10,7 @@
                 },
                 "Vehicle Specs": {
                     "Weight": "65 Tons",
-                    "Speed": "70 kph",
+                    "Speed": "70/50 kph",
                     "Range": "500 km",
                     "Crew": "3",
                     "Passengers": "0"
@@ -36,7 +36,7 @@
                 },
                 "Vehicle Specs": {
                     "Weight": "57 Tons",
-                    "Speed": "80 kph",
+                    "Speed": "80/50 kph",
                     "Range": "700 km",
                     "Crew": "2",
                     "Passengers": "0"
@@ -54,7 +54,38 @@
                     "Soft-Kill/Hard-Kill APS",
                     "Hyperspectral Sensor Suite",
                     "Hybrid Engine",
-                    "Fully Unmanned Turret"
+                    "Fully Unmanned Turret",
+                    "G3M IMS II Modularity"
+                ]
+            },
+            {
+                "Name": "OA3-E Imitor Drone Tank",
+                "Cost and Build Time": {
+                    "Cost": "$4,000,000",
+                    "Build Time": "2 Months"
+                },
+                "Vehicle Specs": {
+                    "Weight": "34 Tons",
+                    "Speed": "90/50 kph",
+                    "Range": "650 km",
+                    "Crew": "0",
+                    "Passengers": "0"
+                },
+                "Drones": [
+                    "4x Anti-Personnel Loitering Munition Drones"
+                ],
+                "Weapons": [
+                    "1x 105mm Gun or 2x 30mm Chain Guns",
+                    "2x ATGM Pods"
+                ],
+                "Systems": [
+                    "Soft-Kill/Hard-Kill APS",
+                    "CLOAK",
+                    "DERT",
+                    "Hyperspectral Sensor Suite",
+                    "Hybrid Engine",
+                    "Autonomous Operation",
+                    "G3M IMS II Modularity"
                 ]
             }
         ],
@@ -154,26 +185,28 @@
         "Naval": [],
         "Land": [
             {
-                "Name": "FV-9 Spectre IFV",
+                "Name": "FV-10E Spectre IFV",
                 "Cost and Build Time": {
-                    "Cost": "$11,200,000",
+                    "Cost": "$7,000,000",
                     "Build Time": "1 Year"
                 },
                 "Vehicle Specs": {
-                    "Weight": "38 Ton",
-                    "Speed": "80 KPH",
-                    "Range": "750 km",
-                    "Crew": "2",
-                    "Passengers": "9"
+                    "Weight": "42 Ton",
+                    "Speed": "90/55 KPH",
+                    "Range": "650 km",
+                    "Crew": "3",
+                    "Passengers": "8"
                 },
                 "Weapons": [
                     "1x 40mm Autocannon",
-                    ".50 Cal RWS",
+                    "1x 7.62 Coaxial Chain Gun",
                     "Dual ATGM Launcher"
                 ],
                 "Systems": [
-                    "Hard-Kill/Soft-Kill APS",
-                    "360 Sensor Coverage + Augmented Reality View",
+                    "PROTECT",
+                    "CLOAK",
+                    "G3M IMS II Modularity",
+                    "Hyperspectral Sensor Suite",
                     "Hybrid Engine"
                 ]
             }
