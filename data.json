@@ -87,6 +87,31 @@
                     "Autonomous Operation",
                     "G3M IMS II Modularity"
                 ]
+            },
+            {
+                "Name": "Ares-1 IFV",
+                "Cost and Build Time": {
+                    "Cost": "$11,000,000",
+                    "Build Time": "9 Months"
+                },
+                "Vehicle Specs": {
+                    "Weight": "35 Tons",
+                    "Speed": "80/55 kph",
+                    "Range": "700 km",
+                    "Crew": "3",
+                    "Passengers": "8"
+                },
+                "Weapons": [
+                    "1x 40mm Autocannon",
+                    "Dual ATGM Launcher",
+                    "1x 7.62mm Coaxial Chain Gun"
+                ],
+                "Systems": [
+                    "AI Auto-Target",
+                    "Hard-Kill APS",
+                    "Hyperspectral Sensor Suite",
+                    "EW Suite"
+                ]
             }
         ],
         "Air": []
@@ -145,7 +170,61 @@
                 ]
             }
         ],
-        "Land": [],
+        "Land": [
+            {
+                "Name": "MA-151 Lynx IFV",
+                "Cost and Build Time": {
+                    "Cost": "$4,750,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "35 Tons",
+                    "Speed": "90/60 kph",
+                    "Range": "450 km",
+                    "Crew": "3",
+                    "Passengers": "6"
+                },
+                "Drones Carried": [
+                    "1x Recon Drone"
+                ],
+                "Weapons": [
+                    "1x 40mm Autocannon",
+                    ".50 Cal RWS"
+                ],
+                "Systems": [
+                    "Soft-Kill APS",
+                    "Electric Engine",
+                    "CLOAK"
+                ]
+            },
+            {
+                "Name": "MC-8 Tank",
+                "Cost and Build Time": {
+                    "Cost": "$14,750,000",
+                    "Build Time": "1.5 Years"
+                },
+                "Vehicle Specs": {
+                    "Weight": "65 Tons",
+                    "Speed": "60/40 kph",
+                    "Range": "400 km",
+                    "Crew": "2"
+                },
+                "Drones Carried": [
+                    "1x Recon Drone"
+                ],
+                "Weapons": [
+                    "1x 130mm Gun",
+                    "1x 20mm Autocannon"
+                ],
+                "Systems": [
+                    "CLOAK",
+                    "Soft-Kill/Hard-Kill APS",
+                    "Hybrid Engine",
+                    "Unmanned Turret",
+                    "Hyperspectral Sensor Suite"
+                ]
+            }
+        ],
         "Air": [
             {
                 "Name": "TH-M1 Condor Gunship",
@@ -243,11 +322,74 @@
             }
         ],
         "Land": [],
-        "Air": []
+        "Air": [
+            {
+                "Name": "XF-45 Peregrine Air Superiority Fighter",
+                "Cost and Build Time": {
+                    "Cost": "$115,000,000",
+                    "Build Time": "2.5 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "16,800 kg",
+                    "Max Weight": "34,000 kg",
+                    "Length": "18 Meters",
+                    "Wingspan/Blade span": "13 Meters",
+                    "Airframe": "Pelikan Tail",
+                    "Internal fuel capacity": "9,200 kg"
+                },
+                "Performance": {
+                    "Max Speed": "Mach 2.6",
+                    "Cruise Speed": "Mack 1.8",
+                    "Combat Radius": "2,800 km",
+                    "Ferry Range": "7,700 km",
+                    "Altitude Ceiling": "20,000 Meters"
+                },
+                "Weapons": [
+                    "6x Internal Snap-Launch Bays",
+                    "6x Optional External Hardpoints",
+                    "1x Forward Mounted 20mm Rotary Cannon"
+                ],
+                "Systems": [
+                    "Long Range Radar",
+                    "Short Range Quantum Radar",
+                    "Hyperspectral Sensor Package",
+                    "EW Attack Suite",
+                    "3D Thrust Vectoring'",
+                    "AI Wingman + Automatic Evasion",
+                    "Full-Spectrum HUD"
+                ]
+            }
+        ]
     },
     "Global-Tek": {
         "Naval": [],
-        "Land": [],
+        "Land": [
+            {
+                "Name": "M-10 Sovereign Tank",
+                "Cost and Build Time": {
+                    "Cost": "$18,000,000",
+                    "Build Time": "2 Years"
+                },
+                "Vehicle Specs": {
+                    "Weight": "74 Tons",
+                    "Speed": "60/40 kph",
+                    "Range": "450 km",
+                    "Crew": "3"
+                },
+                "Weapons": [
+                    "1x 130mm ETC Gun",
+                    "1x 30mm Autocannon",
+                    "1x 7.62mm Coaxial Chain Gun",
+                    "Dual ATGM Launcher"
+                ],
+                "Systems": [
+                    "Soft-Kill/Hard-Kill APS",
+                    "Explosive Reactive Armor",
+                    "Hybrid Engine",
+                    "Hyperspectral Sensor Suite"
+                ]
+            }
+        ],
         "Air": [
             {
                 "Name": "XF-41 Sovereign Air Superiority Fighter",
