@@ -179,5 +179,108 @@
             }
         ],
         "Air": []
+    },
+    "Aegis Tactical": {
+        "Naval": [
+            {
+                "Name": "Republic Class Cruiser",
+                "Cost and Build Time": {
+                    "Cost": "$3,200,000,000",
+                    "Build Time": "4.5 Years"
+                },
+                "Vessel Specs": {
+                    "Displacement": "14,000 Tons",
+                    "Speed": "55 kph",
+                    "Range": "14,000 km",
+                    "Crew Size": "395"
+                },
+                "Aircraft Carried": [
+                    "5 Helicopters"
+                ],
+                "Weapons": [
+                    "100x VLS",
+                    "1x 130mm Gun",
+                    "2x SeaRAM",
+                    "1x 300 kW Laser"
+                ],
+                "Systems": [
+                    "EW Suite",
+                    "C&C Space"
+                ]
+            }
+        ],
+        "Land": [],
+        "Air": []
+    },
+    "Global-Tek": {
+        "Naval": [],
+        "Land": [],
+        "Air": [
+            {
+                "Name": "XF-41 Sovereign Air Superiority Fighter",
+                "Cost and Build Time": {
+                    "Cost": "$185,000,000",
+                    "Build Time": "2 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "22,500 kg",
+                    "Max Weight": "43,700 kg",
+                    "Length": "20 Meters",
+                    "Wingspan/Blade span": "16 Meters",
+                    "Airframe": "Cranked Kite Tailless",
+                    "Internal fuel capacity": "13,500 kg"
+                },
+                "Performance": {
+                    "Max Speed": "Mach 2.3",
+                    "Cruise Speed": "Mach 1.7",
+                    "Combat Radius": "3,900 km",
+                    "Ferry Range": "8,800 km",
+                    "Altitude Ceiling": "22,000 km"
+                },
+                "Weapons": [
+                    "8x Internal Bays",
+                    "4x Optional External Hard Points"
+                ],
+                "Systems": [
+                    "3D Thrust Vectoring",
+                    "Long Range Radar",
+                    "Hyperspectral Sensor Package",
+                    "Drone Control Capabilities",
+                    "AI Wingman and Autonomous Evasion",
+                    "Full-Spectrum HUD"
+                ]
+            },
+            {
+                "Name": "FA-36 Eidolon Multirole Fighter",
+                "Cost and Build Time": {
+                    "Cost": "$210,000,000",
+                    "Build Time": "1.5 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "17,300 kg",
+                    "Max Weight": "38,600 kg",
+                    "Length": "21 Meters",
+                    "Wingspan/Blade span": "16 Meters",
+                    "Airframe": "Cranked Kite Tailless",
+                    "Internal fuel capacity": "12,700 kg"
+                },
+                "Performance": {
+                    "Max Speed": "Mach 2.4",
+                    "Cruise Speed": "Mach 1.6",
+                    "Combat Radius": "4,500 km",
+                    "Ferry Range": "12,400 km",
+                    "Altitude Ceiling": "22,000 km"
+                },
+                "Weapons": [
+                    "4x Internal Bays",
+                    "50 kW Retractable Solid-State Laser"
+                ],
+                "Systems": [
+                    "3D Thrust Vectoring",
+                    "AI Wingman and Automatic Evasion",
+                    "Full-Spectrum HUD"
+                ]
+            }
+        ]
     }
 }
