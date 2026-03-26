@@ -3,7 +3,7 @@
         "Naval": [],
         "Land": [
             {
-                "Name": "TV-2 MBT",
+                "Name": "OA-G01-B Basalt Tank",
                 "Cost and Build Time": {
                     "Cost": "$14,000,000",
                     "Build Time": "15 Months"
@@ -29,7 +29,7 @@
                 ]
             },
             {
-                "Name": "TV-3E Apex",
+                "Name": "OA-G01-CE Apex Tank",
                 "Cost and Build Time": {
                     "Cost": "$15,000,000",
                     "Build Time": "1 Year"
@@ -59,7 +59,7 @@
                 ]
             },
             {
-                "Name": "OA3-E Imitor Drone Tank",
+                "Name": "OA-G02-CE Imitor Drone Tank",
                 "Cost and Build Time": {
                     "Cost": "$4,000,000",
                     "Build Time": "2 Months"
@@ -89,7 +89,7 @@
                 ]
             },
             {
-                "Name": "Ares-1 IFV",
+                "Name": "OA-G03-A Ares IFV",
                 "Cost and Build Time": {
                     "Cost": "$11,000,000",
                     "Build Time": "9 Months"
@@ -119,7 +119,7 @@
     "MUAC": {
         "Naval": [
             {
-                "Name": "Hornet Class Destroyer",
+                "Name": "MU-301.1 Hornet Class Destroyer",
                 "Cost and Build Time": {
                     "Cost": "$2,000,000,000",
                     "Build Time": "3 Years"
@@ -144,7 +144,7 @@
                 ]
             },
             {
-                "Name": "Noah Class Cruiser",
+                "Name": "MU-302.1 Noah Class Cruiser",
                 "Cost and Build Time": {
                     "Cost": "$1,750,000,000",
                     "Build Time": "2.5 Years"
@@ -172,7 +172,7 @@
         ],
         "Land": [
             {
-                "Name": "MA-151 Lynx IFV",
+                "Name": "MU-201.1 Bismuth IFV",
                 "Cost and Build Time": {
                     "Cost": "$4,750,000",
                     "Build Time": "1 Year"
@@ -198,7 +198,7 @@
                 ]
             },
             {
-                "Name": "MC-8 Tank",
+                "Name": "MU-202.1 Radon Tank",
                 "Cost and Build Time": {
                     "Cost": "$14,750,000",
                     "Build Time": "1.5 Years"
@@ -227,7 +227,7 @@
         ],
         "Air": [
             {
-                "Name": "TH-M1 Condor Gunship",
+                "Name": "MU-101.1 Condor Gunship",
                 "Cost and Build Time": {
                     "Cost": "$62,500,000",
                     "Build Time": "1 Year"
@@ -264,7 +264,7 @@
         "Naval": [],
         "Land": [
             {
-                "Name": "FV-10E Spectre IFV",
+                "Name": "GO-M1E Spectre IFV",
                 "Cost and Build Time": {
                     "Cost": "$7,000,000",
                     "Build Time": "1 Year"
@@ -295,7 +295,7 @@
     "Aegis Tactical": {
         "Naval": [
             {
-                "Name": "Republic Class Cruiser",
+                "Name": "AT-SS-1 Republic Class Cruiser",
                 "Cost and Build Time": {
                     "Cost": "$3,200,000,000",
                     "Build Time": "4.5 Years"
@@ -324,7 +324,7 @@
         "Land": [],
         "Air": [
             {
-                "Name": "XF-45 Peregrine Air Superiority Fighter",
+                "Name": "AT-FA-1 Pegasus Air Superiority Fighter",
                 "Cost and Build Time": {
                     "Cost": "$115,000,000",
                     "Build Time": "2.5 Years"
@@ -365,7 +365,7 @@
         "Naval": [],
         "Land": [
             {
-                "Name": "M-10 Sovereign Tank",
+                "Name": "GT-7-T1 Tundra Tank",
                 "Cost and Build Time": {
                     "Cost": "$18,000,000",
                     "Build Time": "2 Years"
@@ -392,7 +392,7 @@
         ],
         "Air": [
             {
-                "Name": "XF-41 Sovereign Air Superiority Fighter",
+                "Name": "GT-5-V1 Air Superiority Fighter",
                 "Cost and Build Time": {
                     "Cost": "$185,000,000",
                     "Build Time": "2 Years"
@@ -426,7 +426,7 @@
                 ]
             },
             {
-                "Name": "FA-36 Eidolon Multirole Fighter",
+                "Name": "GT-5-V2 Eidolon Multirole Fighter",
                 "Cost and Build Time": {
                     "Cost": "$210,000,000",
                     "Build Time": "1.5 Years"
