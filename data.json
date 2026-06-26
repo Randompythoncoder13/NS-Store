@@ -13,7 +13,6 @@
                     "Speed": "70/50 kph",
                     "Range": "500 km",
                     "Crew": "3",
-                    "Passengers": "0"
                 },
                 "Weapons": [
                     "130mm Gun",
@@ -39,7 +38,6 @@
                     "Speed": "80/50 kph",
                     "Range": "700 km",
                     "Crew": "2",
-                    "Passengers": "0"
                 },
                 "Weapons": [
                     "130mm Gun",
@@ -69,7 +67,6 @@
                     "Speed": "90/50 kph",
                     "Range": "650 km",
                     "Crew": "0",
-                    "Passengers": "0"
                 },
                 "Drones": [
                     "4x Anti-Personnel Loitering Munition Drones"
@@ -232,10 +229,9 @@
                 },
                 "Vehicle Specs": {
                     "Weight": "30 Tons",
-                    "Speed": "70/50'",
+                    "Speed": "70/50 kph",
                     "Range": "650 km",
                     "Crew": "2",
-                    "Passengers": "0"
                 },
                 "Weapons": [
                     "30x MGMH-336 Loitering Drone Anti-Personnel Missiles or",
@@ -246,6 +242,57 @@
                     "Hybrid Engine",
                     "PROTECT",
                     "CLOAK"
+                ]
+            },
+            {
+                "Name": "NGL I",
+                "Cost and Build Time": {
+                    "Cost": "$8,625,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "55 Tons",
+                    "Speed": "70/45 kph",
+                    "Range": "450 km",
+                    "Crew": "4"
+                },
+                "Weapons": [
+                    "120mm Main Gun",
+                    "40mm Grenade Launcher",
+                    ".50 Cal RWS"
+                ],
+                "Systems": [
+                    "CLOAK",
+                    "PROTECT",
+                    "Hyperspectral Suite",
+                    "Soft-Kill APS",
+                    "Hybrid Engine"
+                ]
+            },
+            {
+                "Name": "NGL II",
+                "Cost and Build Time": {
+                    "Cost": "$9,250,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "60 Tons",
+                    "Speed": "65/45 kph",
+                    "Range": "450 km",
+                    "Crew": "4"
+                },
+                "Weapons": [
+                    "130mm ETC Main Gun",
+                    "20mm Autocannon RWS",
+                    "40mm Grenade Launcher",
+                    "Co-Axial .50 Cal"
+                ],
+                "Systems": [
+                    "Hyperspectral Suite",
+                    "CLOAK",
+                    "PROTECT",
+                    "Hard-Kill/Soft-Kill APS",
+                    "Hybrid Engine"
                 ]
             }
         ],
