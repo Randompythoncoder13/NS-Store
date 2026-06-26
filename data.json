@@ -12,7 +12,7 @@
                     "Weight": "65 Tons",
                     "Speed": "70/50 kph",
                     "Range": "500 km",
-                    "Crew": "3",
+                    "Crew": "3"
                 },
                 "Weapons": [
                     "130mm Gun",
@@ -37,7 +37,7 @@
                     "Weight": "57 Tons",
                     "Speed": "80/50 kph",
                     "Range": "700 km",
-                    "Crew": "2",
+                    "Crew": "2"
                 },
                 "Weapons": [
                     "130mm Gun",
@@ -66,7 +66,7 @@
                     "Weight": "34 Tons",
                     "Speed": "90/50 kph",
                     "Range": "650 km",
-                    "Crew": "0",
+                    "Crew": "0"
                 },
                 "Drones": [
                     "4x Anti-Personnel Loitering Munition Drones"
@@ -231,7 +231,7 @@
                     "Weight": "30 Tons",
                     "Speed": "70/50 kph",
                     "Range": "650 km",
-                    "Crew": "2",
+                    "Crew": "2"
                 },
                 "Weapons": [
                     "30x MGMH-336 Loitering Drone Anti-Personnel Missiles or",
