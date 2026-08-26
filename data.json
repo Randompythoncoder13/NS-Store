@@ -109,6 +109,70 @@
                     "Hyperspectral Sensor Suite",
                     "EW Suite"
                 ]
+            },
+            {
+                "Name": "M-1090E \"Aegis\" Mobile Radar and Drone Platform",
+                "Cost and Build Time": {
+                    "Cost": "$25,850,000",
+                    "Build Time": "1.5 Years"
+                },
+                "Vehicle Specs": {
+                    "Weight": "38 Tons",
+                    "Speed": "105/60 kph",
+                    "Range": "850 km",
+                    "Crew": "4 (Optionally Unmanned)",
+                    "Passengers": "0"
+                },
+                "Weapons": [
+                    "30mm Autocannon"
+                ],
+                "Systems": [
+                    "Gallium Nitride AESA Radar",
+                    "12.5-Meter X/Ku-Band Radar Mast",
+                    "High Traffic Communications Node",
+                    "UAV Drone Control Suite",
+                    "Hyperspectral Sensor Package",
+                    "Hard-Kill/Soft-Kill APS",
+                    "PROTECT",
+                    "CLOAK",
+                    "MASS",
+                    "Hybrid Engine"
+                ]
+            },
+            {
+                "Name": "CEV-50 \"Mastodon\" Heavy Breacking & Combat Engineering Platform",
+                "Cost and Build Time": {
+                    "Cost": "$20,350,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "62 Tons",
+                    "Speed": "72/48 kph",
+                    "Range": "550 km",
+                    "Crew": "2"
+                },
+                "Drones Carried": [
+                    "1x Recon Drone"
+                ],
+                "Weapons": [
+                    "10 kW Laser",
+                    "30mm Chain Gun",
+                    "7.62mm Coaxial Machine Gun",
+                    "4x MGMH-322 (Anti-Structure Missiles) Mini-VLS",
+                    "3x 100x8 Meter Line Charge Deployment Pods"
+                ],
+                "Systems": [
+                    "Hard-Kill APS",
+                    "Hyperspectral Sensor Suite",
+                    "Ground-Penetrating Radar",
+                    "PROTECT",
+                    "CLOAK",
+                    "MASS",
+                    "Hybrid Engine",
+                    "V-Shape Mine Plow or High Lift Serrated Combat Dozer Bloade",
+                    "Read Mounted Modular 14 Meter Bridge",
+                    "2x 25-Ton Recovery Winches"
+                ]
             }
         ],
         "Air": []
@@ -294,6 +358,98 @@
                     "Hard-Kill/Soft-Kill APS",
                     "Hybrid Engine"
                 ]
+            },
+            {
+                "Name": "TRV-50 \"Buggy\" Light Tactical Vehicle",
+                "Cost and Build Time": {
+                    "Cost": "$2,625,000",
+                    "Build Time": "16 Days"
+                },
+                "Vehicle Specs": {
+                    "Weight": "6.2 Tons",
+                    "Speed": "135/75 kph",
+                    "Range": "850 km",
+                    "Crew": "2 (Optionally Unmanned)",
+                    "Passengers": "2"
+                },
+                "Weapons": [
+                    "30mm Autocannon",
+                    "7.62mm Machine Gun",
+                    "4x Drone Launcher",
+                    "2x Hardpoints (Missiles or Supplies)"
+                ],
+                "Systems": [
+                    "Hyperspectral Sensor Package",
+                    "Soft-Kill APS",
+                    "PROTECT",
+                    "DERT",
+                    "CLOAK",
+                    "MASS",
+                    "Hybrid Engine"
+                ]
+            },
+            {
+                "Name": "ECV-50 EW/Comms Truck",
+                "Cost and Build Time": {
+                    "Cost": "$18,125,000",
+                    "Build Time": "9 Months"
+                },
+                "Vehicle Specs": {
+                    "Weight": "28 Tons",
+                    "Speed": "105/60 kph",
+                    "Range": "750 km",
+                    "Crew": "2",
+                    "Passengers": "0"
+                },
+                "Weapons": [
+                    "50 kW Laser",
+                    "30mm Autocannon"
+                ],
+                "Systems": [
+                    "PROTECT",
+                    "CLOAK",
+                    "MASS",
+                    "EW Mast",
+                    "High Traffic Communications Node",
+                    "Hyperspectral Sensor Package",
+                    "Soft-Kill/Hard-Kill APS",
+                    "Hybrid Engine"
+                ]
+            },
+            {
+                "Name": "CV-60 \"Legionnaire\" Mobile C2 Platform",
+                "Cost and Build Time": {
+                    "Cost": "$21,250,000",
+                    "Build Time": "8 Months"
+                },
+                "Vehicle Specs": {
+                    "Weight": "42 Tons",
+                    "Speed": "85/55 kph",
+                    "Range": "750 km",
+                    "Crew": "6",
+                    "Passengers": "0"
+                },
+                "Drones Carried": [
+                    "1x Recon Drone"
+                ],
+                "Weapons": [
+                    "Microwave Drone Jammer",
+                    "30mm Autocannon",
+                    "7.62mm RWS",
+                    "15 kW Laser",
+                    "12x MGML-236 (Drone Swarm Missiles) Mini-VLS"
+                ],
+                "Systems": [
+                    "High Traffic Communication Node",
+                    "Hyperspectral Sensor Package",
+                    "Soft-Kill/Hard-Kill APS",
+                    "UAV Control Suite",
+                    "UGV Control Suite",
+                    "PROTECT",
+                    "CLOAK",
+                    "MASS",
+                    "Hybrid Engine"
+                ]
             }
         ],
         "Air": [
@@ -327,6 +483,40 @@
                     "Hyperspectral Sensor Suite",
                     "CLOAK",
                     "AI Flight Management and Auto Targeting"
+                ]
+            },
+            {
+                "Name": "ATE-14E \"Vigilant\" AWACS Platform",
+                "Cost and Build Time": {
+                    "Cost": "$500,000,000",
+                    "Build Time": "3 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "76,500 kg",
+                    "Max Weight": "197,000 kg",
+                    "Length": "41.5 Meters",
+                    "Wingspan/Blade span": "53.2 Meters",
+                    "Airframe": "Blended Wing Body",
+                    "Internal fuel capacity": "72,000 kg"
+                },
+                "Performance": {
+                    "Max Speed": "1,100 kph",
+                    "Cruise Speed": "990 kph",
+                    "Combat Radius": "4,300 km + 5 Hour Loiter",
+                    "Ferry Range": "14,000 km",
+                    "Altitude Ceiling": "15,300 m"
+                },
+                "Weapons": [
+                    "2x Internal Bays",
+                    "Dorsal/Ventral Dual-Aperture 50 kW Laser"
+                ],
+                "Systems": [
+                    "Gallium Nitride AESA Radar",
+                    "S-Band Leading-Edge Array",
+                    "X-Band Fuselage/Dorsal Array",
+                    "360 Hyperspectral Sensor Coverage",
+                    "AI Flight Management",
+                    "CLOAK"
                 ]
             }
         ]
@@ -429,6 +619,135 @@
                     "AI Wingman + Automatic Evasion",
                     "Full-Spectrum HUD"
                 ]
+            },
+            {
+                "Name": "NO-4",
+                "Cost and Build Time": {
+                    "Cost": "$34,500,000",
+                    "Build Time": "1.5 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "3,100 kg",
+                    "Max Weight": "4,800 kg",
+                    "Length": "10.4 Meters",
+                    "Wingspan/Blade span": "11.6 Meters",
+                    "Airframe": "Conventional",
+                    "Internal fuel capacity": "500 kg"
+                },
+                "Performance": {
+                    "Max Speed": "515 kph",
+                    "Cruise Speed": "390 kph",
+                    "Combat Radius": "400 km",
+                    "Ferry Range": "2,400 km",
+                    "Altitude Ceiling": "9,000 Meters"
+                },
+                "Weapons": [
+                    "5x Optional External Hardpoints",
+                    "1x Forward Mounted 12.7mm Gun"
+                ],
+                "Systems": [
+                    "AI Wingman + Automatic Evasion",
+                    "Radar Spoofer",
+                    "EMP Hardened Canopy"
+                ]
+            },
+            {
+                "Name": "NO-7",
+                "Cost and Build Time": {
+                    "Cost": "$86,700,000",
+                    "Build Time": "3 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "5,900 kg",
+                    "Max Weight": "10,100 kg",
+                    "Length": "13.4 Meters",
+                    "Wingspan/Blade span": "9.8 Meters",
+                    "Airframe": "Conventional",
+                    "Internal fuel capacity": "3,700 kg"
+                },
+                "Performance": {
+                    "Max Speed": "1,210 kph",
+                    "Cruise Speed": "980 kph",
+                    "Combat Radius": "850 km",
+                    "Ferry Range": "3,800 km",
+                    "Altitude Ceiling": "13,000 Meters"
+                },
+                "Weapons": [
+                    "7x Optional Wing-Mounted Hardpoints"
+                ],
+                "Systems": [
+                    "Short-Range Radar",
+                    "VTOL",
+                    "2D Thrust Vectoring",
+                    "AI Wingman + Automatic Evasion",
+                    "Radar Spoofer",
+                    "EW Attack Suite",
+                    "EMP Hardened Canopy"
+                ]
+            },
+            {
+                "Name": "KC-90 Aerial Refueling Tanker",
+                "Cost and Build Time": {
+                    "Cost": "$387,500,000",
+                    "Build Time": "2 Years"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "108,800 kg",
+                    "Max Weight": "315,000 kg",
+                    "Length": "48.5 Meters",
+                    "Wingspan/Blade span": "64.2 Meters",
+                    "Internal fuel capacity": "172,400 kg"
+                },
+                "Performance": {
+                    "Max Speed": "1,100 kph",
+                    "Cruise Speed": "1,000 kph",
+                    "Combat Radius": "3,700 km + 2.5 Hour Loiter",
+                    "Ferry Range": "15,750 km",
+                    "Altitude Ceiling": "14,300 m"
+                },
+                "Weapons": [
+                    "2x Optional External Hardpoints",
+                    "60 kW Ventral Laser",
+                    "60 kW Dorsal Laser"
+                ],
+                "Systems": [
+                    "Hyperspectral Sensor Suite",
+                    "AI Flight Management",
+                    "CLOAK"
+                ]
+            },
+            {
+                "Name": "C-100 \"Titan\" Heavy Airlifter",
+                "Cost and Build Time": {
+                    "Cost": "$387,500,000",
+                    "Build Time": "10 Months"
+                },
+                "Dimensions & Capacity": {
+                    "Empty Weight": "162,000 kg",
+                    "Max Weight": "395,000 kg",
+                    "Length": "64.5 Meters",
+                    "Wingspan/Blade span": "68 Meters",
+                    "Airframe": "Blended Wing Body",
+                    "Internal fuel capacity": "148,000 kg"
+                },
+                "Performance": {
+                    "Max Speed": "1,100 kph",
+                    "Cruise Speed": "1,000 kph",
+                    "Combat Radius": "5,200 km",
+                    "Ferry Range": "15,925 km",
+                    "Altitude Ceiling": "13,800 m"
+                },
+                "Weapons": [
+                    "3x Internal Bays",
+                    "60 kW Ventral Laser",
+                    "60 kW Dorsal Laser",
+                    "Optional 36x Palletized MFMA-4GA133 Cruise Missiles"
+                ],
+                "Systems": [
+                    "Hyperspectral Sensor Suite",
+                    "AI Flight Management",
+                    "CLOAK"
+                ]
             }
         ]
     },
@@ -458,6 +777,36 @@
                     "Explosive Reactive Armor",
                     "Hybrid Engine",
                     "Hyperspectral Sensor Suite"
+                ]
+            },
+            {
+                "Name": "ARV-60 \"Stalwart\" Armored Recovery Vehicle",
+                "Cost and Build Time": {
+                    "Cost": "$16,500,000",
+                    "Build Time": "1 Year"
+                },
+                "Vehicle Specs": {
+                    "Weight": "63 Tons",
+                    "Speed": "72/48 kph",
+                    "Range": "520 km",
+                    "Crew": "3"
+                },
+                "Weapons": [
+                    "10 kW Laser",
+                    "30mm Chain Gun",
+                    "7.62 Coaxial Machine Gun",
+                    "4x MGML-221 ATGMs"
+                ],
+                "Systems": [
+                    "Hard-Kill/Soft-Kill APS",
+                    "Hyperspectral Sensor Package",
+                    "PROTECT",
+                    "CLOAK",
+                    "MASS",
+                    "Hybrid Engine",
+                    "Optional Dozer Blade/Earth Anchor",
+                    "70-Ton Recovery Winch",
+                    "5-Ton Auxiliary Winch"
                 ]
             }
         ],
